@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/asset">
+        <file>image/home.png</file>
+        <file>image/live.png</file>
+        <file>image/settings.png</file>
+        <file>image/power-switch.png</file>
+        <file>image/client_icon.png</file>
+        <file>image/ledmatrix.png</file>
+        <file>image/changedName.png</file>
+    </qresource>
+</RCC>

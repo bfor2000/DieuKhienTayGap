@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/tool">
+        <file>image/live-streaming-off.png</file>
+        <file>image/live-streaming-on.png</file>
+        <file>image/power-off.png</file>
+        <file>image/power-on.png</file>
+        <file>image/server.png</file>
+        <file>image/video.png</file>
+        <file>image/video-off.png</file>
+        <file>image/open-folder.png</file>
+        <file>image/back.png</file>
+        <file>image/next-button.png</file>
+        <file>image/next-button-left.png</file>
+        <file>image/pause.png</file>
+        <file>image/play.png</file>
+        <file>image/right.png</file>
+        <file>image/skip.png</file>
+        <file>image/speed.png</file>
+        <file>image/volume-up.png</file>
+        <file>image/volume-up-down.png</file>
+        <file>image/reload.png</file>
+        <file>image/reload-off.png</file>
+        <file>image/upload.png</file>
+        <file>image/link.png</file>
+        <file>image/receive.png</file>
+        <file>image/unlink.png</file>
+        <file>image/mail.png</file>
+        <file>image/stop.png</file>
+        <file>image/start.png</file>
+    </qresource>
+</RCC>
