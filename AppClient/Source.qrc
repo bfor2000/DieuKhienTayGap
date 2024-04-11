@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/image">
-        <file>image/home.png</file>
-        <file>image/live.png</file>
-        <file>image/settings.png</file>
-        <file>test.png</file>
-    </qresource>
-</RCC>
